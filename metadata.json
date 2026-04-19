@@ -1,0 +1,6 @@
+{
+  "name": "AI 狼人杀",
+  "description": "一个支持实时音源调整、使用 Gemini Live API 构筑语音助手的线上狼人杀游戏。包括隐藏身份自由选择、AI填槽等功能。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
